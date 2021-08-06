@@ -5,4 +5,18 @@
 
 <br/>
 
+In game objects:
+* Elements:
+    * Fire -> Orange
+    * WaterDrop -> Blue
+    * Wood -> Brown
+    * Iron -> White
+    * Coal -> Black
+
+* Collectible Items:
+    * Diamond -> Colors corresponding to 'Elements'
+    * Coin -> Golden coins can be collected for cosmetics
+
+<br/>
+
 Developed by: Haotian (Hubery) Luo
