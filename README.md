@@ -6,9 +6,10 @@
 <br/>
 
 Game rules:
-- Collect 'Elements' objects to change color
-- Collide 'Ball' objects with the same color to eliminate them and win score
+- Collect 'Diamond' objects to change color
+- Collide 'Ball' objects with the same color to eliminate them
 - Collide 'Ball' objects with different colors will die
+- Collect 'Element' objects with the same color to win score
 - Collect 'Coin' objects to make money
 
 <br/>
@@ -18,15 +19,16 @@ In game objects:
     * MagicEssence -> Purple
     * WaterDrop -> Blue
     * Wood -> Brown
-    * Iron -> White
+    * Grass -> Green
     * Coal -> Black
 
 * Collectible Items:
     * Diamond -> Colors corresponding to 'Elements'
+    * SpikeBall -> Colors corresponding to 'Elements'
     * Coin -> Golden coins can be collected for cosmetics
 
-* Enemies:
-    * Ball -> Colors corresponding to 'Elements'
+* Chracters:
+    * Ball -> Player
     * Dragon -> Canons that fire out 'Balls'
 
 <br/>
