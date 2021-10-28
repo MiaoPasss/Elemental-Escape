@@ -1,5 +1,5 @@
 # Elemental-Escape
-2D game made with Unity version 2019.4.29f1
+2D game made with Unity version 2020.3.21f1
 * Personal project started in August 2021
 * Planning to upload to Steam by January 2022
 
